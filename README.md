@@ -17,7 +17,7 @@ tens of thousands of merchants.
 
 ### 🔧 Things I reach for
 
-`PHP` · `Laravel` · `MySQL` · `Redis` · `MongoDB` · `Docker` · `LLM agents`
+`LLM agents` · `PHP` · `Laravel` · `MySQL` · `Redis` · `MongoDB` · `Docker`
 
 ### 📫 Say hi
 
