@@ -1,6 +1,6 @@
 
 
-Hey, I’m <b>Amine</b> 👋<br>
+Hey, I’m <b>Med Amine Alyate</b> 👋<br>
 
 I turn ideas into real, shipped products —<br>
 like AI-powered marketing tools used by<br>
