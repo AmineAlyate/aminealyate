@@ -1,6 +1,4 @@
-
-
-Hey, I’m <b>Amine</b> 👋<br>
+Hey, I’m <b>Oussama</b> 👋<br>
 
 I turn ideas into real, shipped products —<br>
 like AI-powered marketing tools used by<br>
@@ -21,7 +19,7 @@ tens of thousands of merchants.
 
 ### 📫 Say hi
 
-[LinkedIn](https://www.linkedin.com/in/amine-alyate) · [medaminealyate@gmail.com](mailto:medaminealyate@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/oussama-zaml) · [medoussamazaml@gmail.com](mailto:medoussamazaml@gmail.com)
 
 <br>
 
